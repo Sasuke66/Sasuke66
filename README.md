@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sasuke66</h1>
 <h3 align="center">I am a passionate Full-Stack Developer with expertise in both front-end and back-end technologies, alongside solid experience in database management and design tools. I love building scalable applications and always stay updated with the latest trends in software development.</h3>
 
+![Tokyo Ghoul Kaneki GIF - Tokyo Ghoul Kaneki - Discover   Share GIFs](https://github.com/user-attachments/assets/916c2238-f6ea-46f5-a88b-aae4664c8078)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasuke66&label=Profile%20views&color=0e75b6&style=flat" alt="sasuke66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasuke66" alt="sasuke66" /></a> </p>
