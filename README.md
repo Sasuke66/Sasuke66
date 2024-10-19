@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tothe0blivion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tothe0blivion" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satwik-raj-yadav6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satwik-raj-yadav6/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shadow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satwik-raj-yadav6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satwik-raj-yadav6" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/24137845/shadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/24137845/shadow" height="30" width="40" /></a>
 <a href="https://instagram.com/take.shi_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="take.shi_666" height="30" width="40" /></a>
 <a href="https://dribbble.com/6shadow6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="6shadow6" height="30" width="40" /></a>
 </p>
