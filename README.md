@@ -4,6 +4,16 @@
   </a>
 </div>
 
+#
+<h4>Hey there! I'm a passionate Front-End Developer who loves to craft efficient and clean user interfaces. I believe in delivering high-quality code while always striving to improve and learn new things. My main focus is creating seamless user experiences with a dash of creativity.</h4>
+
+ <h4>Outside of coding, you'll find me: <br><br> 
+  Watching anime 🎌: Whether it's a classic or the latest release, anime is my go-to for inspiration and relaxation.<br>
+  Gaming 🎮: From competitive multiplayer games to immersive RPGs, gaming is my escape and a fun way to unwind. <br>
+  Photography 📸: I love capturing the beauty of the world, especially scenic skies and the wonders of nature. You might find me snapping photos of sunsets or the environment when I'm out and about! <br>
+  Feel free to connect, collaborate, or just talk about tech, anime, or games!</h4>
+
+
 # 💫 About Me:
 🔭 I’m currently working on something...<br>🌱 I’m currently learning React-native, Frameworks, Game-dev, etc.<br>🤝 I’m looking for help with life<br>👨‍💻 All of my projects are available at here on GitHub<br>💬 Ask me about games<br>📫 How to reach me rsradip663@gmail.com<br>⚡ Fun fact I am dumb
 
