@@ -10,7 +10,7 @@
  <h4>Outside of coding, you'll find me: <br><br> 
   Watching anime 🎌: Whether it's a classic or the latest release, anime is my go-to for inspiration and relaxation.<br>
   Gaming 🎮: From competitive multiplayer games to immersive RPGs, gaming is my escape and a fun way to unwind. <br>
-  Photography 📸: I love capturing the beauty of the world, especially scenic skies and the wonders of nature. You might find me snapping photos of sunsets or the environment when I'm out and about! <br>
+  Photography 📸: I love capturing the beauty of the world, especially scenic skies and the wonders of nature. You might find me snapping photos of sunsets or the environment when I'm out and about! <br><br>
   Feel free to connect, collaborate, or just talk about tech, anime, or games!</h4>
 
 
