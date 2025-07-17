@@ -5,7 +5,7 @@
 </div>
 
 #
-<h4>Hey there! I'm a driven Machine Learning Enthusiast and Front-End Developer who loves blending intelligent systems with clean, interactive user interfaces. Whether it's building predictive models or crafting seamless web experiences, I strive to deliver high-quality solutions backed by continuous learning and a passion for innovation. My goal is to create products that are both smart and user-centric.</h4>
+<h4>Hey there! I’m a Machine Learning Enthusiast and Front-End Developer who loves building smart systems and seamless user interfaces. I believe in writing clean, efficient code while constantly learning and improving. My passion lies in creating impactful, user-focused solutions with a touch of creativity.</h4>
 
  <h4>Outside of coding, you'll find me: <br><br> 
   Watching anime 🎌: Whether it's a classic or the latest release, anime is my go-to for inspiration and relaxation.<br>
