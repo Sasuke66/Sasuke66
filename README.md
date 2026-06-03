@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on something...<br>🌱 I’m currently learning React-native, Frameworks, Game-dev, etc.<br>🤝 I’m looking for help with life<br>👨‍💻 All of my projects are available at here on GitHub<br>💬 Ask me about games<br>📫 How to reach me rsradip663@gmail.com<br>⚡ Fun fact I am dumb
+🔭 I’m currently working on something...<br>🌱 I’m currently learning my brain. <br>🤝 I’m looking for help with life. <br>👨‍💻 All of my projects are available at here on GitHub. <br>💬 Ask me about games. <br>📫 How to reach me satradi610@gmail.com <br>⚡ Fun fact coding makes me feel I am dumb
 
 
 ## 🌐 Socials:
